@@ -3,13 +3,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f5f5f5;
+    background-color: #ADD8E6;
     margin: 0;
     font-family: Arial, sans-serif;
 }
 
 .calculator {
-    background-color: #454545;
+    background-color: #FFC0CB;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 320px;
@@ -27,7 +27,7 @@ body {
     text-align: right;
     border: none;
     outline: none;
-    background-color: #B8C3DC;
+    background-color: #ffff00;
     border-radius: 4px;
 }
 
@@ -40,11 +40,11 @@ body {
 button {
     padding: 20px;
     font-size: 1.5em;
-    border: none;
+    border: ;
     outline: none;
-    background-color: #007bff;
-    color: #fff;
-    border-radius: 4px;
+    background-color: #CBC3E3;
+    color: #000000;
+    border-radius: 10px;
     cursor: pointer;
     text-align: center;
 }
